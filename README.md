@@ -1,4 +1,6 @@
-# Hikari Hasegawa
+# Stefano Lupano 
+
+# Hikari Hasegawa Project
 
 ### Building software that belongs to its users.
 
